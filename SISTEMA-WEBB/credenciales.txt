@@ -1,0 +1,6 @@
+---------- Usuario #1 ----------
+User: admin
+Password: admin
+---------- Usuario #2 ----------
+User: usuario
+Password: usuario

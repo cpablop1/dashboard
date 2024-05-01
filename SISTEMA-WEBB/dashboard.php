@@ -14,7 +14,7 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <meta charset="utf-8" />
@@ -127,7 +127,7 @@
         </div>
         <div class="sb-sidenav-footer">
           <div class="small">Conectado como:</div>
-          Iniciar Bootstrap
+           <?= $nombre ?>
         </div>
       </nav>
     </div>
@@ -681,7 +681,7 @@
       <footer class="py-4 bg-light mt-auto">
         <div class="container-fluid">
           <div class="d-flex align-items-center justify-content-between small">
-            <div class="text-muted">Copyright &copy; FITCH 2022</div>
+            <div class="text-muted">Copyright &copy; William Castillo 2024</div>
             <div>
               <a href="#">Privacy Policy</a>
               &middot;
